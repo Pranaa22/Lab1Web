@@ -8,17 +8,17 @@ Universitas Pelita Bangsa
 # Jawab Pertanyaan Berikut : 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag? <br>
-  Jawab: Merubah alignment dari kanan ke kiri <br>
-  <img src="/PemWeb P2/PemWeb2no1.png" img>
-  <img src="/PemWeb P2/PemWeb2no2.png" img>
+  Jawab: <b>Merubah alignment dari kanan ke kiri </b><br>
+  <img src="/PemWeb2no1.png" img>
+  <img src="/PemWeb2no2.png" img>
 
 
 2. Apa perbedaan dari tag <"p"> dengan tag <"br"> , berikan penjelasannya!<br>
-   Jawab: Tag <"p"> digunakan untuk membuat paragraf teks. dan Tag <"br"> digunakan untuk membuat baris baru (break line) tanpa memulai paragraf baru. <br>
-     <img src="/PemWeb P2/p.png" img>
-     <img src="/PemWeb P2/br.png" img> <br>
-   Perbedaan utama: <br>
-   <"p'> digunakan untuk memisahkan blok-blok paragraf, sedangkan <"br"> hanya untuk memindahkan teks ke baris berikutnya tanpa memulai paragraf baru. <br>
+   Jawab: <b>Tag <"p"> digunakan untuk membuat paragraf teks. dan Tag <"br"> digunakan untuk membuat baris baru (break line) tanpa memulai paragraf baru.</b> <br>
+     <img src="/p.png" img>
+     <img src="/br.png" img> <br>
+   <b>Perbedaan utama: <br>
+   <"p"> digunakan untuk memisahkan blok-blok paragraf, sedangkan <"br"> hanya untuk memindahkan teks ke baris berikutnya tanpa memulai paragraf baru.</b> <br>
 
 4. Apa perbedaan atribut title dan alt pada tag <"img">, berikan penjelasannya! <br>
 
