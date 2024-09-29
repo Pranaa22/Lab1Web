@@ -14,11 +14,10 @@ error ketika terjadi kesalahan penulisan tag? <br>
 
 
 2. Apa perbedaan dari tag <"p"> dengan tag <"br"> , berikan penjelasannya!<br>
-   Jawab: Tag <"p"> digunakan untuk membuat paragraf teks. dan Tag <"br"> digunakan untuk membuat baris baru (break line) tanpa memulai paragraf baru.
+   Jawab: Tag <"p"> digunakan untuk membuat paragraf teks. dan Tag <"br"> digunakan untuk membuat baris baru (break line) tanpa memulai paragraf baru. <br>
      <img src="/PemWeb P2/p.png" img>
-     <img src="/PemWeb P2/br.png" img>
-   Perbedaan utama :
-   Struktur Teks: <br>
+     <img src="/PemWeb P2/br.png" img> <br>
+   Perbedaan utama: <br>
    <"p'> digunakan untuk memisahkan blok-blok paragraf, sedangkan <"br"> hanya untuk memindahkan teks ke baris berikutnya tanpa memulai paragraf baru. <br>
 
 4. Apa perbedaan atribut title dan alt pada tag <"img">, berikan penjelasannya! <br>
