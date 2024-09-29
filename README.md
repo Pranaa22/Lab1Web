@@ -9,7 +9,7 @@ Universitas Pelita Bangsa
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag? <br>
   Jawab: Merubah alignment dari kanan ke kiri <br>
-  <img src="/PemWeb2no1/commit.png" img>
+  <img src="/PemWeb.P2/PemWeb2no1.png" img>
   
 
 2. Apa perbedaan dari tag <"p"> dengan tag <"br"> , berikan penjelasannya!<br>
