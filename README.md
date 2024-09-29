@@ -8,12 +8,13 @@ Universitas Pelita Bangsa
 # Jawab Pertanyaan Berikut : 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag? <br>
-  Jawab: <b>Merubah alignment dari kanan ke kiri </b><br>
+  Jawab:
+  <b>Merubah alignment dari kanan ke kiri </b><br>
   <img src="/PemWeb2no1.png" img>
   <img src="/PemWeb2no2.png" img>
 
 
-2. Apa perbedaan dari tag <"p"> dengan tag <"br"> , berikan penjelasannya!<br>
+3. Apa perbedaan dari tag <"p"> dengan tag <"br"> , berikan penjelasannya!<br>
    Jawab: <b>Tag <"p"> digunakan untuk membuat paragraf teks. dan Tag <"br"> digunakan untuk membuat baris baru (break line) tanpa memulai paragraf baru.</b> <br>
      Contoh Penggunaan <"p"> : <br>
      <img src="/p.png" img> <br>
@@ -38,9 +39,14 @@ Karena jika width dan height diatur bersamaan, Gambar bisa kehilangan proporsi a
 6. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? <br>
 Jawab: <br>
-<b>_blank membuka halaman di tab/jendela baru. <br>
-_self membuka halaman di tab yang sama. <br>
-_parent membuka halaman di frame induk atau tab yang sama jika tidak ada frame.<br>
-_top membuka halaman di tab paling atas, menghapus semua frame.</b>
+<b>_blank: membuka halaman di tab/jendela baru. <br>
+Contoh: <a href="https://contoh.com" target="_blank">Buka di Tab Baru</a> <br>
+_self: membuka halaman di tab yang sama. <br>
+Contoh: <a href="https://contoh2.com" target="_self">Buka di Tab yang Sama</a> <br>
+_parent: membuka halaman di frame induk atau tab yang sama jika tidak ada frame.<br>
+Contoh: <a href="https://contoh3.com" target="_parent">Buka di Parent Frame</a> <br>
+_top: membuka halaman di tab paling atas, menghapus semua frame. <br>
+Contoh: <a href="https://example.com" target="_top">Buka di Jendela Utama</a> </b>
+
 
  
