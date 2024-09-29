@@ -32,9 +32,15 @@ error ketika terjadi kesalahan penulisan tag? <br>
 
 5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!<br>
-
+Jawab: <b> Untuk menjaga proporsi gambar, sebaiknya hanya salah satu dari atribut width atau height yang diisi, bukan keduanya. <br>
+Karena jika width dan height diatur bersamaan, Gambar bisa kehilangan proporsi aslinya jika salah satu nilai tidak sesuai dengan rasio asli gambar. Misalnya, jika gambar aslinya berbentuk persegi tetapi yang di isi width lebih panjang dari height, gambar akan terlihat memanjang.</b> <br>
 
 6. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
-_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? <br>
+Jawab: <br>
+<b>_blank membuka halaman di tab/jendela baru. <br>
+_self membuka halaman di tab yang sama. <br>
+_parent membuka halaman di frame induk atau tab yang sama jika tidak ada frame.<br>
+_top membuka halaman di tab paling atas, menghapus semua frame.</b>
 
  
