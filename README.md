@@ -26,10 +26,13 @@ error ketika terjadi kesalahan penulisan tag? <br>
 4. Apa perbedaan atribut title dan alt pada tag <"img">, berikan penjelasannya! <br>
   Jawab: <br>
   <b>alt: Berfokus pada aksesibilitas dan memberikan alternatif saat gambar tidak bisa ditampilkan. <br>
-  title: Memberikan informasi tambahan (tooltip) saat gambar ditampilkan, biasanya diakses melalui hover kursor.</b> <br>
+  Contoh Penguunaan: </img src=gambar.jpg" alt="Gambar pemandangan gunung"> <br>
+  title: Memberikan informasi tambahan (tooltip) saat gambar ditampilkan, biasanya diakses melalui hover kursor.<br>
+  Contoh Penggunaan: </img src="gambar.jpg" title="Pemandangan Gunung yang Indah"> </b> <br>
 
 5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
 proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!<br>
+
 
 6. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? 
