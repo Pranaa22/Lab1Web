@@ -3,7 +3,7 @@ Teknik Informatika 23.A2 <br>
 Universitas Pelita Bangsa
 
 # Tugas Pemrograman Web P2
-Project link : https://pranaa22.github.io/Lab1Web/ <br>
+[Project link](https://pranaa22.github.io/Lab1Web/)
 
 # Jawab Pertanyaan Berikut : 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
