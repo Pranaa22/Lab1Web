@@ -1,4 +1,4 @@
-# Tugas Pertemuan 2 Pemrograman Web 
+# Tugas Pertemuan 2 Pemrograman Web 1
 
 Pranaja Widyadhana Wardana <br>
 Teknik Informatika 23.A2 <br>
