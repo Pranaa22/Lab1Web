@@ -1,8 +1,9 @@
+# Tugas Pertemuan 2 Pemrograman Web 
+
 Pranaja Widyadhana Wardana <br>
 Teknik Informatika 23.A2 <br>
 Universitas Pelita Bangsa
 
-# Tugas Pertemuan 2 Pemrograman Web 
 [Project link](https://pranaa22.github.io/Lab1Web/)
 
 # Jawab Pertanyaan Berikut : 
